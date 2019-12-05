@@ -16,10 +16,9 @@ class App extends StatelessWidget {
         // لون فرعي مثلا اللودينع سيركيولار
         accentColor: Colors.pink,
         //الخط الرئيسي للتطبيق
-        fontFamily: 'Frutiger'
+        fontFamily: 'ExpoArabic-Book'
       ),
       localizationsDelegates: [
-        // ... app-specific localization delegate[s] here
         GlobalMaterialLocalizations.delegate,
         GlobalWidgetsLocalizations.delegate,
         GlobalCupertinoLocalizations.delegate,
@@ -31,7 +30,7 @@ class App extends StatelessWidget {
         key: _scaffoldState,
         appBar: AppBar(
           title: Text(
-            "Flutter CRUD API",
+            "عالم من الهبل",
             style: TextStyle(
               color: Colors.white,
             ),
