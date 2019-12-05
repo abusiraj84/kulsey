@@ -13,6 +13,7 @@ description: HerSey.
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 
 #https://github.com/CoderJava/Food-Recipe for like and add too fav seection
+# https://www.themealdb.com/api.php Api for YEMEK
 
 version: 1.0.0+1
 
