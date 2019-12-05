@@ -15,6 +15,8 @@ class App extends StatelessWidget {
         primaryColor: Colors.orange,
         // لون فرعي مثلا اللودينع سيركيولار
         accentColor: Colors.pink,
+        //الخط الرئيسي للتطبيق
+        fontFamily: 'Frutiger'
       ),
       localizationsDelegates: [
         // ... app-specific localization delegate[s] here
